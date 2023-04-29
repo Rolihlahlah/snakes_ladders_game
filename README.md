@@ -12,6 +12,8 @@ snakes ladders game using JavaScript and Gsap
 
 ## Live link
 
+https://rolihlahlah.github.io/snakes_ladders_game/
+
 
 ## Screenshot
 
